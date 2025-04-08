@@ -45,4 +45,4 @@ Furthermore, I found I was unable to properly set `GPIO_PULLDOWN` and `GPIO_PULL
 In the future, I would like to look into GPIO interrupts for publishing state changes instead of continuous polling.
 
 ## Credit
-The code is largely based on Bouffalo Lab's [MQTT](https://github.com/bouffalolab/bouffalo_sdk/tree/76ebf6ffcbc2a81d18dd18eb3a22810779edae1a/examples/wifi/sta/wifi_mqtt_pub) and [GPIO](https://github.com/bouffalolab/bouffalo_sdk/tree/76ebf6ffcbc2a81d18dd18eb3a22810779edae1a/examples/peripherals/gpio/gpio_input_output) licensed under Apache-2.0 with my modifications to connect MQTT and GPIO together.
+The code is largely based on Bouffalo Lab's [MQTT](https://github.com/bouffalolab/bouffalo_sdk/tree/76ebf6ffcbc2a81d18dd18eb3a22810779edae1a/examples/wifi/sta/wifi_mqtt_pub) and [GPIO](https://github.com/bouffalolab/bouffalo_sdk/tree/76ebf6ffcbc2a81d18dd18eb3a22810779edae1a/examples/peripherals/gpio/gpio_input_output) examples licensed under Apache-2.0 with my modifications to connect MQTT and GPIO together.
