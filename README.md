@@ -1,6 +1,6 @@
 # MQTT M0S Switch
 ## Purpose
-To improve my bed occupation detection for smarthome automations, I decided to get an off-the-shelf pressure mat (as has been done by many people before me) and wire it up with a microcontroller.
+To improve my bed occupation detection for smarthome automations, I decided to get an off-the-shelf pressure mat (as has been done by many people before me) and wire it up to a microcontroller.
 
 This project arose from me finding out that my attempts to desolder pins from my beloved WeMos LOLIN D1 Mini microcontrollers without any desoldering gear resulted in nearly all my spares being fried and rendered useless.
 
